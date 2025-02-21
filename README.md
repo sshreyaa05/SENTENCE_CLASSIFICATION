@@ -1,13 +1,12 @@
 ### Sentence Classification for Restaurant Reviews Using Artificial Neural Networks (ANN) with Embedding Layer
-
 ### Overview:
-This project focuses on classifying restaurant reviews as positive or negative using an Artificial Neural Network (ANN) with an embedding layer. The reviews, processed as text data, are first transformed into embeddings to capture the semantic meaning of words. The ANN model, with the embedding layer included, is trained to predict the sentiment of each review, classifying them into positive or negative categories. The dataset consists of restaurant reviews, labeled accordingly.
+This project classifies restaurant reviews as positive or negative using an Artificial Neural Network (ANN) with an embedding layer. Reviews are transformed into embeddings, capturing word meanings, and the ANN model is trained to predict the sentiment.
 
 ### Result:
-The ANN model, utilizing the embedding layer, successfully classified the restaurant reviews into positive and negative categories, achieving an accuracy of 0.7.
+The ANN model achieved an accuracy of 0.7 in classifying the restaurant reviews into positive or negative categories.
 
 ### Conclusion:
-The project demonstrates the effectiveness of using an embedding layer in an ANN for sentence classification. By converting words into embeddings, the model was able to classify restaurant reviews with an accuracy of 0.7, showing the potential of this approach for sentiment analysis tasks.
+The project demonstrates the effectiveness of using embeddings in an ANN for sentiment analysis, achieving a 0.7 accuracy, showing the potential of this approach for text classification tasks.
 
 
 
