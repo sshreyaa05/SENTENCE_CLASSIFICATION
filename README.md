@@ -39,3 +39,11 @@ The project demonstrates the effectiveness of using an embedding layer in an ANN
 
 
 
+
+
+
+
+
+
+
+
